@@ -5,3 +5,8 @@
 
  for i in range(3):
      print(i)
+ 
+ #add more variable
+ 
+ i = 4
+ j = 7
